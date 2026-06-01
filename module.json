@@ -3,6 +3,7 @@
   "title": "Screen Wake Lock",
   "description": "Requests a Screen Wake Lock so players' screens don't sleep during sessions. Gracefully degrades on unsupported browsers.",
   "version": "1.0.0",
+  "url": "https://github.com/ryco117/foundryvtt-wake-lock",
   "compatibility": {
     "minimum": "12",
     "verified": "14.363"
