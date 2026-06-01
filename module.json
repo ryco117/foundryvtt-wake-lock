@@ -1,0 +1,20 @@
+{
+  "id": "wake-lock",
+  "title": "Screen Wake Lock",
+  "description": "Requests a Screen Wake Lock so players' screens don't sleep during sessions. Gracefully degrades on unsupported browsers.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14.363"
+  },
+  "authors": [
+    {
+      "name": "ryco117"
+    }
+  ],
+  "esmodules": [
+    "./wake-lock.mjs"
+  ],
+  "scripts": [],
+  "styles": []
+}
